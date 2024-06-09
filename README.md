@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">CS Student @UGA</p>
+<p align="center">4th year CS Student @UGA</p>
 
 ###
 
