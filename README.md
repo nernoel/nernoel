@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫 About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My current tech stack</h2>
+<h2 align="left">🔥 My current tech stack</h2>
 
 ###
 
